@@ -10,6 +10,6 @@ Un cuaderno de Jupyter que contiene:
 - Visualización de predicciones en comparación con las calificaciones reales.
 
 **Documentos incluídos en este repositorio:**
-- [Reporte en formato ipynb](./Non-Linear-Regresion.ipynb)
-- [Reporte en formato html](./Non-Linear-Regresion.html)
+- [Reporte en formato ipynb](./Non_Linear_Regresion.ipynb)
+- [Reporte en formato html](./Non_Linear_Regresion.html)
 - [Base de datos](./Tiempos1.csv)
